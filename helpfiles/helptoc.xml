@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='ISO-8859-1' ?>
-<!-- $Revision: 1.1.6.2 $ $Date: 2007/09/18 01:15:51 $ -->
+<!-- 
+Copyright 2017 Richard J. Cui.
+$Revision: 1.1.6.3 $ $Date: Fri 03/17/2017 11:11:20.414 PM $ 
+
+3236 E Chandler Blvd Unit 2036
+Phoenix, AZ 85048, USA
+Email: richard.cui@utoronto.ca
+-->
 
 <toc version="0.1">
 
@@ -37,7 +44,7 @@
 
 </tocitem>
 
-<tocitem target="http://neurostat.mit.edu" image="$toolbox/matlab/icons/webicon.gif">Neuroscience Statistics Research Laboratory</tocitem>
+<tocitem target="http://www.neurostat.mit.edu" image="$toolbox/matlab/icons/webicon.gif">Neuroscience Statistics Research Laboratory</tocitem>
 
 </tocitem>
 </toc>
